@@ -1,10 +1,10 @@
 # SC_project
-Too Simple ANTLR project using Listener 
+Too Simple ANTLR project using Listener. 
 
 ## Getting started
 (Keeping things easy)!!
 
-Follow the  [ANTLR getting started guide](https://github.com/antlr/antlr4/blob/master/doc/getting-started.md) to set up the project
+Follow the  [ANTLR getting started guide](https://github.com/antlr/antlr4/blob/master/doc/getting-started.md) to set up the project.
 
 After that move to the the project folder containing the project files via `CMD` or `Terminal` run the command
 
@@ -17,14 +17,14 @@ to get the output of the source file.
 
 ## Features
 
-- Decalre variable
-- Assign value to variable
-- Basic arithmetic operations
-  - Addition
-  - Subtraction
-  - Multiplication
-- Print the value of variable
-- If_else condition on (less than or greater than Operator(limited to this only) with numbers only)
+- Decalre variable.
+- Assign value to variable.
+- Basic arithmetic operations.
+  - Addition.
+  - Subtraction.
+  - Multiplication.
+- Print the value of variable.
+- If_else condition on (less than or greater than Operator(limited to this only) with numbers only).
   - print string in the condiion.
   
 ## Syntax
@@ -53,6 +53,6 @@ The resources utilized for this and understandings are
 ####    Use of Listeners is not encouraged! Vistors are highly recommended.
  It's just what you can implement in less time(mini tasks).....
  
- The Project synatx has resemblance with SWIFT
+ The Project synatx has resemblance with SWIFT.
  
  
