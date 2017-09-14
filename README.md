@@ -3,7 +3,10 @@ Too Simple ANTLR project using Listener
 
 ## Getting started
 (Keeping things easy)!!
-Follow the ![ANTLR getting started guide](https://github.com/antlr/antlr4/blob/master/doc/getting-started.md) to set up the project
+
+Follow the 
+![ANTLR getting started guide](https://github.com/antlr/antlr4/blob/master/doc/getting-started.md)   
+to set up the project
 
 After that move to the the project folder containing the project files via `CMD` or `Terminal` run the command
 
