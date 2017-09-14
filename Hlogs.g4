@@ -1,0 +1,15 @@
+grammar Hlogs;
+program   : (imp)+  (statement)+ 'end'; 
+statement : assign | add | print | if_st | sub | multiply;
+imp	       : 'import' ID;
+assign    : 'let' ID 'is' (NUMBER | ID) ;
+print     : 'print' (NUMBER | ID) ;
+add       : 'add' (NUMBER | ID) 'to' ID ;
+sub		  : 'subtract' (NUMBER | ID) 'from' ID;
+multiply  : 'multiply' (NUMBER | ID) 'with' ID;
+if_st        : 'if (' (NUMBER | ID) UOP  (NUMBER | ID) ')' 'logs - > ' ID_2+  'else' 'logs - > ' ID_2+ ;
+ID     : [a-z]+ ;
+NUMBER : [0-9]+ ; 
+UOP : [<>]; 
+ID_2 :  '"' (~["\r\n] | '""')* '"'*;
+WS     : [ \n\t\r]+ -> skip;

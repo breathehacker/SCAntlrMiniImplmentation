@@ -1,0 +1,32 @@
+
+import jav
+import abc
+    let a is 5    
+    let b is 10
+    let b is 9
+    add 3 to b
+    print b
+    subtract a from b
+    print b
+    multiply a with b
+    print b
+    add 2 to b
+    print agh
+    add a to b
+    print a
+    print b
+    if (6>7)
+     logs - > "6 is greater than 7"
+     
+     else
+  		 logs - > "6 is less than 7"
+    if (8<9)
+     logs - > "8 is less than  to 9"
+     else
+  	 logs - > "8 is greater than 9"
+       if (2>7)
+     logs - > "2 is greater than 7"
+     
+     else
+       logs - > "2 is less than 7"
+    end

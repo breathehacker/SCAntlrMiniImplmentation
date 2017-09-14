@@ -1,0 +1,26 @@
+
+import jav
+import abc
+    let a is 5    
+    let b is 10
+    add 3 to b
+    print b
+    subtract a from b
+    print b
+    multiply a with b
+    print b
+    add 2 to b
+    print a
+    add a to b
+    print a
+    print b
+    if (6>7)
+     logs - > "TrueValue"
+     
+     else
+  		logs - > "falsevalue"
+    if (8<9)
+     logs - > "True"
+     else
+  		logs - > "false"
+end
