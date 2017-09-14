@@ -37,14 +37,16 @@ to get the output of the source file.
 
 #####  _Grammer is described in `Hlogs.g4`_
  
- ## Resources
+
+## Resources
  
  The resources utilized for this and understandings are
  - [A mega guide to Antlr](https://tomassetti.me/antlr-mega-tutorial/)
  - [Antlr 4 - Listener vs Visitor](http://jakubdziworski.github.io/java/2016/04/01/antlr_visitor_vs_listener.html)
  - [How to use visitors ANTLR](https://stackoverflow.com/questions/19472986/how-to-use-antlr4-visitor)
  
-##### Use of Listeners is not encouraged! Vistors are highly recommended.
+ 
+ ##### Use of Listeners is not encouraged! Vistors are highly recommended.
  It's just what you can implement in less time(mini tasks).....
  
  
