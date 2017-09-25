@@ -17,7 +17,7 @@ to get the output of the source file.
 
 ## Features
 
-- Decalre variable.
+- Declare variable.
 - Assign value to variable.
 - Basic arithmetic operations.
   - Addition.
