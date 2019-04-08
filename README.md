@@ -1,4 +1,4 @@
-# SC_project
+# SCAntlrMiniImplmentation
 Too Simple ANTLR project using Listener. 
 
 ## Getting started
